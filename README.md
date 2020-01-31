@@ -1,6 +1,8 @@
 # egmapjs
 leafletjs x 地理院地図(GSIMAP)  
 
+https://eigo-mt-fuji.github.io/egmapjs/map1.html?_t=12345679
+
 チュートリアル  
 https://code4fukui.github.io/egmapjs/tutorial.html  
 
